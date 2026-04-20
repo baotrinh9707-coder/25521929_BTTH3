@@ -12,7 +12,7 @@ Repository này chứa mã nguồn C++ cho các bài tập thực hành cơ bả
 - [x] **Bai4_lab3.cpp:** Xây dựng lớp cArray (`cArray.cpp`, `cArray.h`).
 - [x] **Bai5_lab3.cpp:** Xây dựng lớp cDaThuc (`cDaThuc.cpp`, `cDaThuc.h`).
 - [x] **Bai6_lab3.cpp:** Xây dựng lớp cCandidate (`cCandidate.cpp`, `cCandidate.h`).
-- [x] **Bai7_lab3.cpp:** Xây dựng lớp cNhanVienVP (`cNhanVienVP.cpp`, `cNhanVienVP.h`).7
+- [x] **Bai7_lab3.cpp:** Xây dựng lớp cNhanVienVP (`cNhanVienVP.cpp`, `cNhanVienVP.h`).
 - [x] **Bai8_lab3.cpp:** Xây dựng lớp cNhanVienSX (`cNhanVienSX.cpp`, `cNhanVienSX.h`).
       
 ## 🛠️ Cách biên dịch và chạy
